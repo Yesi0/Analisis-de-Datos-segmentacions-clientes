@@ -98,3 +98,6 @@ Importancia de abordar la disminución en la retención de clientes después del
 
 - Este análisis y las estrategias resultantes son fundamentales para entender el comportamiento del cliente y adaptar las prácticas comerciales de "El Mercado" de manera efectiva.
 
+
+
+
