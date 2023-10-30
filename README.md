@@ -49,7 +49,7 @@ Análisis del porcentaje de retención por cohorte visualizado mediante una tabl
 
 ## Visualizaciones
 Las visualizaciones se crearon en Looker Studio para representar los datos de manera comprensible y ofrecer insights valiosos sobre el segmento de clientes de "El Mercado".
-Para ver el informe completo en Looker Studio, link [AQUI ](https://lookerstudio.google.com/s/ucHIaMikHsQ) 
+Para ver el informe completo en Looker Studio, link [AQUI ]( https://lookerstudio.google.com/reporting/34614fe5-4a1c-4127-89f4-77a2c40a08d2)
 
 Calculos en google Sheets [AQUI ](https://docs.google.com/spreadsheets/d/1n5zhB27EtlrdLryIRFz9riCwSNQVysyb0U7EgieKT7o/edit?usp=sharing)
 
